@@ -4,7 +4,11 @@
 3) DESAFIO - o maior e o menor valor (você deve encontrar esse valor
 de maneira dinâmica, já sabemos que notas[4].valor é o maior valor,
 mas como encontrar isso dinamicamente?);
+
+OBS: para rodar JavaScript: 
+node filename.js 
 */
+
 let notas = [
     {valor: 8.5, peso: 0.25},
     {valor: 9.9, peso: 0.95},

@@ -21,8 +21,9 @@ If you want to learn about ViolentMonky, you can read me.
 If you want to play with .js, you can edit me. 
 Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
-# Files
+# JavaScript:
 
-## Create files and folders
-
-## Switch to another file
+Obs: tem == (Operador de Igualdade)
+int x,y, 
+if(x == y)
+Verifica o tipo, retorna True
